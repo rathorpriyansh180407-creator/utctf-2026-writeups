@@ -1,5 +1,5 @@
 <!-- ## challange-1 -->
-# Breadcrumbs
+# 1.Breadcrumbs
 
 **Author:** Priyansh Rathor
 **Category:** Misc
@@ -151,7 +151,7 @@ It also improved my ability to distinguish between **useful information and dist
 
 
 <!-- ## Challenge-2 -->
-# Hidden in Plain Sight
+# 2.Hidden in Plain Sight
 
 **Author:** Priyansh Rathor
 **Category:** Misc 
@@ -249,7 +249,7 @@ utflag{1nv1s1bl3_un1c0d3}
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 This challenge introduced me to **Unicode-based steganography**, which was new to me.
 
@@ -259,7 +259,7 @@ I learned:
 * how to detect hidden data in normal-looking text
 
 <!-- ## Challenge-3 -->
-# Jail Break
+# 3.Jail Break
 
 **Author:** Priyansh Rathor
 **Category:** Misc
